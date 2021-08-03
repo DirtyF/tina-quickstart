@@ -1,5 +1,5 @@
 ---
-title: Dynamic Routing and Static Generation
+title: "Hey Vercel Team \U0001F44B"
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo
