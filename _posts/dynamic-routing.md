@@ -17,6 +17,6 @@ I can edit this Next.js site live on Vercel through [Tina Cloud](https://app.tin
 
 Tina Cloud is still in public alpha, we're heading towards beta.
 
-[Read our guide]() to add Tina Cloud to the Next.js blog starter.
+[Read our guide](https://tina.io/guides/tina-cloud/add-tinacms-to-existing-site/overview/) to add Tina Cloud to the Next.js blog starter.
 
 Any feedback is welcome ☺️
