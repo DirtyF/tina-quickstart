@@ -13,7 +13,7 @@ author:
 ogImage:
   url: /assets/blog/dynamic-routing/cover.jpg
 ---
-I can edit this Next.js site live on Vercel through [Tina Cloud](https://app.tina.io).
+**I can edit this Next.js site live on Vercel through** [**Tina Cloud**](https://app.tina.io)**.**
 
 Tina Cloud is still in public alpha, we're heading towards beta.
 
